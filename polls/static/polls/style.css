@@ -1,0 +1,18 @@
+li a {
+	
+    font-color:red;
+    
+}
+body{
+    background: white url("images/background.gif") no-repeat
+   
+}
+p{
+	
+	font-size: 40px;
+	font-color:green;
+	text-align: center;
+}
+div {
+	text-align:center;
+}
